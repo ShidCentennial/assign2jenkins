@@ -1,3 +1,3 @@
 # assign2jenkins
 
-Hello, World!
+Hello
